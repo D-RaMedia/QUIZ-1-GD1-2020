@@ -1,0 +1,72 @@
+{
+    "quizID": "Games",
+    "quizMetaData":
+    {
+        "title": "Overwatch Questions",
+        "imageURI": "https://www.want.nl/wp-content/uploads/2019/11/Overwatch-23.jpg"
+
+    },
+    "quizContent":		
+		[
+			{
+				"question": "Wanneer kwam Overwatch uit",
+				"answers": [{
+						"answer": "2016",
+						"feedback": true
+					},
+					{
+						"answer": "2012",
+						"feedback": false
+					},
+					{
+						"answer": "2014",
+						"feedback": false
+					},
+					{
+						"answer": "2018",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "Hoeveel characters zijn er",
+				"answers": [{
+						"answer": "33",
+						"feedback": false
+					},
+					{
+						"answer": "31",
+						"feedback": false
+					},
+					{
+						"answer": "32",
+						"feedback": true
+					},
+					{
+						"answer": "30",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "Hoeveel Mappen zijn er?",
+				"answers": [{
+						"answer": "27",
+						"feedback": false
+					},
+					{
+						"answer": "28",
+						"feedback": true
+					},
+					{
+						"answer": "29",
+						"feedback": false
+					},
+					{
+						"answer": "30",
+						"feedback": false
+					}
+				]
+			}
+		]
+	}
