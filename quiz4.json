@@ -1,0 +1,72 @@
+{
+    "quizID": "More Games",
+    "quizMetaData":
+    {
+        "title": "Horizon Zero Dawn Questions",
+        "imageURI": "https://www.want.nl/wp-content/uploads/2019/11/Overwatch-23.jpg"
+
+    },
+    "quizContent":		
+		[
+			{
+				"question": "Hoe oud is Horizon Zero Dawn",
+				"answers": [{
+						"answer": "2 jaar",
+						"feedback": false
+					},
+					{
+						"answer": "1 jaar",
+						"feedback": false
+					},
+					{
+						"answer": "3 jaar",
+						"feedback": true
+					},
+					{
+						"answer": "4 jaar",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "Hoe heet de 'main character'",
+				"answers": [{
+						"answer": "John",
+						"feedback": false
+					},
+					{
+						"answer": "Aloy",
+						"feedback": true
+					},
+					{
+						"answer": "Olay",
+						"feedback": false
+					},
+					{
+						"answer": "Jonathan",
+						"feedback": false
+					}
+				]
+			},
+			{
+				"question": "Op welke platformen is de game beschikbaar",
+				"answers": [{
+						"answer": "ps4",
+						"feedback": false
+					},
+					{
+						"answer": "ps4 en pc",
+						"feedback": true
+					},
+					{
+						"answer": "xbox en ps4",
+						"feedback": false
+					},
+					{
+						"answer": "xbox en pc",
+						"feedback": false
+					}
+				]
+			}
+		]
+	}
